@@ -1,2 +1,2 @@
 # VibeCampus
-une plate-forme dédiée aux étudiants guinéens
+une plate-forme de messagerie privée et evenementiel dédiée aux étudiants guinéens
