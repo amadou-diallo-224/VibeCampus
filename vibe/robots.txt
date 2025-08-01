@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Pages à indexer (spécifiques aux étudiants guinéens)
+Allow: /home.php
+Allow: /chat.php
+Allow: /profile.php
+Allow: /events.php
+
+# Pages à ne pas indexer
+Disallow: /connexion.php
+Disallow: /inscription.php
+Disallow: /update_profile.php
+
+# Sitemap
+Sitemap: http://univ-vibe.com/sitemap.xml
+
+# Spécifications pour la Guinée
+Crawl-delay: 10
+Host: http://univ-vibe.com
+Geo-Target: GN
+Geo-Target: CI
+Geo-Target: ML
+Geo-Target: SN
+Geo-Target: MR
+Geo-Target: SL
+Geo-Target: LR
